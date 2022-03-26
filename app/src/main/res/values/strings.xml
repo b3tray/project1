@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TazaQala</string>
+    <string name="clientBtm">Я пользователь</string>
+    <string name="robotnicBtm">Я сборщик</string>
+    <string name="email">Ваша почта</string>
+    <string name="pass">Ваш пароль</string>
+    <string name="signIn">Войти</string>
+    <string name="signUp">Регистрация</string>
+    <string name="createQuestion">Еще нет аккаунта?</string>
+    <string name="robotnicStatus">Вход для сборщиков</string>
+    <string name="title_activity_robotnic_map">RobotnicMapActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
