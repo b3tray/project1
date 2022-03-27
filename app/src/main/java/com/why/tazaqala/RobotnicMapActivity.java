@@ -81,7 +81,7 @@ public class RobotnicMapActivity extends FragmentActivity implements OnMapReadyC
         postBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent postIntent = new Intent(RobotnicMapActivity.this,ProfileActivity.class);
+                Intent postIntent = new Intent(RobotnicMapActivity.this,SendActivity.class);
                 startActivity(postIntent);
             }
         });
