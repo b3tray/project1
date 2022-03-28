@@ -64,7 +64,13 @@ public class RobotnicMapActivity extends FragmentActivity implements OnMapReadyC
 
             switch (item.getItemId()){
                 case R.id.nav_person:
-                    replaceFragment(new ProfileFragment());
+//                    replaceFragment(new ProfileFragment());
+
+
+
+                            startActivity(new Intent (RobotnicMapActivity.this,ProfileActivity.class));
+
+
                     break;
             }
 
